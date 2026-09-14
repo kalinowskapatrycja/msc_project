@@ -1,5 +1,7 @@
 # MSc Project source code 
 
+model.pt is a trained model on a part of the fastMRI data, trained with the source code in this repo 
+
 The code is written for fastMRI dataset, which can be accessed through cloning the orginal repositiry:
 ```bat
 git clone https://github.com/facebookresearch/fastMRI.git
